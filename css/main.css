@@ -1,1 +1,15 @@
-            
+ body {
+  background: #00FFFF;
+}
+p {
+  color: red;
+}
+h1 {
+  color: #FFD700;
+}
+ul{
+color: #002147;
+}
+a{
+color: #483248;
+}
