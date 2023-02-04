@@ -32,5 +32,7 @@ p{
 font-size: 30px;
 text-align: center;
 font-style: Arial;
-font-weight: 70px;
+}
+button{
+background: black;
 }
