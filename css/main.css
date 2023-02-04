@@ -1,17 +1,36 @@
  body {
   background: #00FFFF;
 }
-p {
-  color: red;
-  font-size: 30px;
+.main-p{
+color: red;
+font-size: 30px;
+ font-weight: 100;
+text-align: center;
+font-style: Arial;
 }
 h1 {
-  color: #FFD700;
-  font-size: 60px;
+color: #FFD700;
+font-size: 60px;
+font-weight: 100;
+text-align: center;
+font-style: Arial;
 }
 ul{
 color: #002147;
+font-size: px;
+font-weight: 100;
+text-align: center;
+font-style: Arial;
 }
 a{
 color: #483248;
+font-weight: 100;
+text-align: center;
+ont-style: Arial;
+}
+p{
+font-size: 30px;
+font-weight: 100;
+text-align: center;
+font-style: Arial;
 }
