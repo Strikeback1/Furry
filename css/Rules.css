@@ -9,8 +9,9 @@ text-align: center;
 font-style: Arial;
 }
 li{
-color: #0a5e49;
+color: black;
 font-size: 30px;
 text-align: left;
 font-style: Arial;
+list-style: numbers;
 }
