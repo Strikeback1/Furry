@@ -1,3 +1,11 @@
+.hero{
+height: 100%;
+width: 100%;
+background-image: linear-gradient(rgba 0,0,0,0.4),(rgba 0,0,0,0.4)),url(phoenix.jpg);
+background-position: center;
+background-size: cover;
+position: absolute;
+}
 body{
  background: #00FFFF;
 }
@@ -23,9 +31,4 @@ font-size: 20px;
 }
 button{
 background: black;
-}
-.hero{
-height: 100%;
-width: 100%;
-background-image: linear-gradient(rgba(0,0,0,0);
 }
