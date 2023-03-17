@@ -24,3 +24,8 @@ font-size: 20px;
 button{
 background: black;
 }
+.hero{
+height: 100%;
+width: 100%;
+background-image: linear-gradient(rgba(0,0,0,0);
+}
