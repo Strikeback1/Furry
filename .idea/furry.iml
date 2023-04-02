@@ -4,5 +4,10 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Bandit-Express.LLC" />
+    <orderEntry type="module" module-name="Furries" />
+    <orderEntry type="module" module-name="furry-pictures" />
+    <orderEntry type="module" module-name="minecraft" />
+    <orderEntry type="module" module-name="rules" />
   </component>
 </module>
