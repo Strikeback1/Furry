@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Bandit-Express.LLC/.idea/Bandit-Express.LLC.iml" filepath="$PROJECT_DIR$/../Bandit-Express.LLC/.idea/Bandit-Express.LLC.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Bandit-Express.LLC/website/Furries/.idea/Furries.iml" filepath="$PROJECT_DIR$/../Bandit-Express.LLC/website/Furries/.idea/Furries.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Bandit-Express.LLC/website/Furry/.idea/furry.iml" filepath="$PROJECT_DIR$/../Bandit-Express.LLC/website/Furry/.idea/furry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../furry-pictures/Bandit-Express.LLC/.idea/Bandit-Express.LLC.iml" filepath="$PROJECT_DIR$/../furry-pictures/Bandit-Express.LLC/.idea/Bandit-Express.LLC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../furry-pictures/Bandit-Express.LLC/website/Furries/.idea/Furries.iml" filepath="$PROJECT_DIR$/../furry-pictures/Bandit-Express.LLC/website/Furries/.idea/Furries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../furry-pictures/Bandit-Express.LLC/website/Furry/.idea/furry.iml" filepath="$PROJECT_DIR$/../furry-pictures/Bandit-Express.LLC/website/Furry/.idea/furry.iml" />
       <module fileurl="file://$PROJECT_DIR$/../furry-pictures/.idea/furry-pictures.iml" filepath="$PROJECT_DIR$/../furry-pictures/.idea/furry-pictures.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Bandit-Express.LLC/website/minecraft/.idea/minecraft.iml" filepath="$PROJECT_DIR$/../Bandit-Express.LLC/website/minecraft/.idea/minecraft.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Bandit-Express.LLC/website/rules/.idea/rules.iml" filepath="$PROJECT_DIR$/../Bandit-Express.LLC/website/rules/.idea/rules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../furry-pictures/Bandit-Express.LLC/website/minecraft/.idea/minecraft.iml" filepath="$PROJECT_DIR$/../furry-pictures/Bandit-Express.LLC/website/minecraft/.idea/minecraft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../furry-pictures/Bandit-Express.LLC/website/rules/.idea/rules.iml" filepath="$PROJECT_DIR$/../furry-pictures/Bandit-Express.LLC/website/rules/.idea/rules.iml" />
     </modules>
   </component>
 </project>
